@@ -11,7 +11,7 @@
 ## 🙋 À propos de moi
 
 - 🏫 Je suis en cours d'ingénierie à **EPF – École d'Ingénieurs** (Cachan)
-- 🚀 Actuellement en stage fullstack chez **Officience** — je développe des applications web, des API et des pipelines ML
+- 🚀 Réalistaion en stage de Junior IA consultant fullstack chez **Officience** — j'ai développé des applications web, des API et des pipelines ML
 - 🌱 J'apprends en permanence : IA/ML, architectures cloud, développement mobile
 - ⚡ Fun fact: j'ai codé un mineur Bitcoin en Python juste pour comprendre comment ça marche !
 
@@ -28,6 +28,7 @@
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=radixui&logoColor=white)
@@ -36,12 +37,22 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-000000?style=flat-square)
 
 ---
 
@@ -50,7 +61,7 @@
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [🤖 QC Marlink ML](https://github.com/nicodanq/officience_predict_succes_fail_QC_ML) | Prédiction succès/échec de communication satellite via IA | Next.js · FastAPI · Docker · Python/ML |
-| [📱 App Mobile 3A](https://github.com/nicodanq/ApplicationMobile3A) | Application mobile React Native pour projet de 3ème année | React Native · Expo · TypeScript · Firebase |
+| [📱 App Mobile 3A](https://github.com/nicodanq/ApplicationMobile3A) | Application mobile React Native pour projet de 3ème année | React Native · Expo · TypeScript · Supabase |
 | [₿ Bitcoin Dashboard](https://github.com/nicodanq/BitcoinDashboard) | Dashboard de suivi des données Bitcoin | TypeScript |
 | [⏱️ Pomodoro App](https://github.com/nicodanq/pomodoroapp) | Application de time-tracking fullstack (front + API + Docker + BDD) | Fullstack · Docker |
 | [🛒 Précommande Jeu EPF](https://github.com/nicodanq/PrecommandeJeuEPF) | Site de précommande pour événement EPF | Next.js · TypeScript · shadcn/ui |
