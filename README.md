@@ -1,9 +1,12 @@
 <h1 align="center">Salut, je suis Nicolas Danquigny 👋</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=%24+whoami+%E2%86%92+Nicolas+Danquigny;%24+stack+%E2%86%92+Full-Stack+%C3%97+Applied+AI+%C3%97+Web3;%24+building+%E2%86%92+AI+products+that+actually+ship+%F0%9F%9A%80;%24+exploring+%E2%86%92+Blockchain+%C2%B7+DeFi+%C2%B7+Smart+Contracts;%24+status+%E2%86%92+%F0%9F%9F%A2+Open+to+Alternance+%E2%80%94+let%27s+build" alt="Typing SVG" />
+
+
 <p align="center">
   🎓 Étudiant ingénieur à <strong>EPF Cachan</strong> &nbsp;|&nbsp;
   💻 Fullstack Developer &nbsp;|&nbsp;
-  🤖 Curieux de tout, passionné de tech
+  🤖 Curieux de tout, passionné de blockchain, d'IA et d'Entrepreunariat
 </p>
 
 ---
